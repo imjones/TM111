@@ -1,0 +1,11 @@
+
+body {
+  width: 1024px; /* Fixed width of 1024 pixels */
+  margin-left: auto; /* automatic left and right margins will centre it horizontally */
+  margin-right: auto;
+  padding-top: 20px; /* move it down a bit */
+  text-align: center; /* centre it, American spelling */
+  border: 1px dashed black; /* give it a dashed border so we can see what we are playing with */
+  font-family: Arial; /* The best font known to humans */ 
+}
+
